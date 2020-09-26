@@ -1,2 +1,2 @@
 # projectrepo
-## Editimg the file
+## Editing the file
